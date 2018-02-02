@@ -1,8 +1,4 @@
 
-# RUNNAN PAN
-## 110802608
-:joy_cat:
-Jennifer Wong-Ma - 01
 ACADEMIC HONESTY STATEMENT
 ================================================================================
 I certify the following:
@@ -39,7 +35,3 @@ my submission. Such permission is best requested and obtained by E-mail to
 cse320@cs.stonybrook.edu
 ================================================================================
 Signed:
-Tue Aug 22 16:44:56 UTC 2017 - Runnan_Pan
-
-
-
